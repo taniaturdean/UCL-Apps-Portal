@@ -1,0 +1,284 @@
+.icons {
+  position: absolute;
+  top: 323px;
+  left: 811px;
+  width: 378px;
+  height: 378px;
+  object-fit: cover;
+}
+.home-page-child-op {
+  position: absolute;
+  top: 1525px;
+  left: 905px;
+  width: 145px;
+  height: 142px;
+}
+.mask-group-icon-op,
+.mask-group-icon1-op {
+  position: absolute;
+  top: 1583px;
+  left: 811px;
+  width: 340px;
+  height: 340px;
+  object-fit: cover;
+}
+.mask-group-icon1-op {
+  top: 1455px;
+  left: 691px;
+  width: 280px;
+  height: 280px;
+}
+.home-page-item-op {
+  position: absolute;
+  top: 1722px;
+  left: 780px;
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+.mask-group-icon2-op {
+  position: absolute;
+  top: 1645px;
+  left: 933px;
+  width: 174px;
+  height: 174px;
+  object-fit: cover;
+  display: none;
+}
+
+.nxi,.opp,
+.text1,.text3-op,.text4-op, .text5-op ,.text12{
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+}
+.opp{
+  margin: 0;
+  top: 10px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 1000px;
+  height: 399px;
+}
+.nxi {
+  margin: 0;
+  top: 140px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 596px;
+  height: 399px;
+}
+.text1 {
+  top: 360px;
+  font-size: var(--font-size-lg);
+  width: 650px;
+  height: 100px;
+}
+.text12{
+  top: 480px;
+  font-size: var(--font-size-lg);
+  width: 650px;
+  height: 100px;
+}
+.text3-op {
+  top: 1510px;
+  font-size: var(--font-size-lg);
+  width: 630px;
+  height: 10
+}
+.text4-op{
+  top: 1590px;
+  left:68px;
+  font-size: var(--font-size-lg);
+  width: 630px;
+  height: 10
+}
+
+.text5-op{
+  top:1820px;
+  left:68px;
+  font-size: var(--font-size-lg);
+  width: 720px;
+  height: 10
+}
+.r-button {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  height: 75px;
+  top: 621px;
+  left: 68px;
+}
+.r-button{
+  height:60px;
+  top:650px;
+}
+
+.get-in-touch2,
+.circle-buttonnn {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 640px;
+  left: 360px;
+  cursor: pointer;
+}
+.circle-buttonnn {
+  top: 642px;
+  left: 720px;
+}
+.button_icon {
+  position: absolute;
+  top: 632px;
+  left: 710px;
+  width: 60px;
+  height: 60px;
+}
+.ucl {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 810px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 800px;
+  height: 399px;
+}
+
+.browse-op,.browse2-op,.browse3-op,
+.circle-button2-op {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1030px;
+  left: 60px;
+  cursor: pointer;
+}
+.circle-button2-op {
+  top: 910px;
+  left: 720px;
+}
+
+.browse2-op{
+  top: 1120px;
+}
+
+.browse3-op{
+  top:1210px;
+}
+
+.browse4-op,.browse5-op,
+.circle-button4-op {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 2020px;
+  left: 60px;
+  cursor: pointer;
+}
+.circle-button4-op {
+  top: 1750px;
+  left: 720px;
+}
+.browse5-op{
+  left:600px;
+}
+
+.line-div2-op {
+  position: absolute;
+  top: 1020px;
+  left: 499px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height: 278px;
+}
+
+.line-div3-op {
+  position: absolute;
+  top: 2020px;
+  left: 559px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height:75px;
+}
+
+.text-op,.text2-op {
+  position: absolute;
+  left: 550px;
+  display: flex;
+  align-items: center;
+  top: 950px;
+  font-size: var(--font-size-lg);
+  width: 400px;
+  height: 100px;
+}
+.text-op{
+  top:900px;
+  left:60px;
+  width:740px;
+}
+
+.text2-op{
+  top:1110px;
+  width:640px;
+}
+.Line-up,.Line-middle2,.Line-low-op {
+  position: absolute;
+  left: 62px;
+  top: 1320px;
+  border-top: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 1156px;
+  height: 2px;
+}
+.Line-up{
+  top:265px;
+}
+.Line-low-op{
+  top:1370px;
+}
+.Line-middle2{
+  top:760px;
+}
+
+.connect-op {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 1410px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 664px;
+  height: 399px;
+}
+
+
+.light-bulb2 {
+  position: absolute;
+  top: 790px;
+  left: 911px;
+  width: 250px;
+  height: 250px;
+}
+
+.op {
+  position: relative;
+  border-radius: 25px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2412px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-black);
+  font-family: var(--font-tomorrow);
+  
+}

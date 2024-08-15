@@ -1,0 +1,81 @@
+.nav-bar.--large-monitor , .nav-bar.--laptop ,.nav-bar.--landscape-tablet,.nav-bar.logged-out--large-monitor , .nav-bar.logged-out--laptop ,.nav-bar.logged-out--landscape-tablet   {
+  position: absolute;
+  
+  width: 90.11%;
+  top: 0%;
+  left: 13.5%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.nav-bar.logged-out--landscape-tablet  {
+  left: 18.5%;
+}
+.nav-bar.--laptop button{
+  width: 310px;
+  font-size: 12px;
+  max-width: max-content;
+
+}
+
+.nav-bar.--large-monitor button {
+  width: 400px;
+  font-size: 18px;
+  max-width: max-content;
+
+}
+
+.nav-bar.nav-bar.--landscape-tablet button {
+  width: 500px;
+  font-size: 24px;
+  max-width: max-content;
+
+}
+.nav-bar.logged-out--laptop button {
+  width: 350px;
+  font-size: 16px;
+  max-width: max-content;
+}
+.nav-bar.logged-out--large-monitor button {
+  width: 500px;
+  font-size: 24px;
+  max-width: max-content;
+}
+.nav-bar.logged-out--landscape-tablet button {
+  width: 670px;
+  font-size: 28px;
+  max-width: max-content;
+}
+
+
+.menu-item--laptop {
+  font-size: 15px;
+}
+.menu-item--laptop2 {
+  font-size: 19px;
+}
+
+.menu-item--large-monitor {
+  font-size: 21px;
+}
+.menu-item--large-monitor2 {
+  font-size: 27px;
+}
+
+.menu-item--landscape-tablet {
+  font-size: 27px;
+}
+.menu-item--landscape-tablet2 {
+  font-size: 31px;
+}
+
+
+.active {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}

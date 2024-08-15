@@ -1,0 +1,26 @@
+.weighty{
+    font-weight: bold;
+  }
+
+.detailed-avail-tech{
+    background-color: #fff;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: left;
+    color: var(--color-black);
+    font-family: var(--font-tomorrow);
+    min-height: 100vh; 
+}
+
+.video-container {
+  position: relative;
+  padding-top: 56.25%;
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 20%;
+  left: 0%;
+  width: 50%;
+  height: 55%;
+}

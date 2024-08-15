@@ -1,0 +1,81 @@
+.available-technologies {
+    position: relative;
+    border-radius: 25px;
+    background-color: #fff;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 2212px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: var(--color-black);
+    font-family: var(--font-tomorrow);
+  }
+
+.title,
+.browse-ucl-projects {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+}
+.title {
+  margin: 0;
+  top: 20px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 750px;
+  height: 399px;
+}
+.browse-ucl-projects {
+  top: 250px;
+  font-size: x-large;
+  width: 600px;
+  height: 100px;
+}
+.industry-child {
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+    width: 148px;
+    height: 148px;
+  }
+  .industry-icon,
+  .industry-icon1 {
+    position: absolute;
+    top: 323px;
+    left: 911px;
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+  }
+  .industry-icon1 {
+    top: 145px;
+    left: 886px;
+    width: 230px;
+    height: 230px;
+  }
+  .industry-inner,
+  .industry-item {
+    position: absolute;
+    top: 260px;
+    left: 1032px;
+    width: 99px;
+    height: 99px;
+  }
+  .industry-inner {
+    top: 196px;
+    left: 871px;
+    width: 49px;
+    height: 49px;
+  }
+  .industry-icon2 {
+    position: absolute;
+    top: 345px;
+    left: 933px;
+    width: 274px;
+    height: 274px;
+    object-fit: cover;
+    display: none;
+  }

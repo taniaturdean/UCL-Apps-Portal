@@ -1,0 +1,37 @@
+.nav-barp, .nav-barp.logged-out  {
+  position: absolute;
+  height: 589.78%;
+  width: 60.11%;
+  top: 0%;
+  left: 40.5%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+
+.nav-barp button,.nav-barp.logged-out button {
+  width: 310px;
+  font-size: 12px;
+  max-width: max-content;
+
+}
+
+
+.menu-item{
+  font-size: 12px;
+}
+.menu-item2 {
+  font-size: 12px;
+}
+
+
+
+.active {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}

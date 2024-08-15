@@ -1,0 +1,29 @@
+.LineComponentLongUpper {
+  position: absolute;
+  left: 62px;
+  top: 739.25px;
+  border-top: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 85%;
+  height: 2px;
+}
+
+.LineComponentLongMiddle {
+  position: absolute;
+  left: 62px;
+  top: 1086px;
+  border-top: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 85%;
+  height: 2px;
+}
+
+.LineComponentLongLower {
+  position: absolute;
+  left: 62px;
+  top: 1454px;
+  border-top: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 85%;
+  height: 2px;
+}

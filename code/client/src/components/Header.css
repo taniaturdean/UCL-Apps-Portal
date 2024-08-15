@@ -1,0 +1,33 @@
+.image-2-icon--laptop, .image-2-icon--large-monitor, .image-2-icon--landscape-tablet,.image-2-icon--phone {
+  position: absolute;
+  height: 99.21%;
+  width: 9.89%;
+  top: 0;
+  right: 90.11%;
+  bottom: 16.79%;
+  left: 0;
+  border-radius: var(--br-md);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-2-icon--phone{
+  height: 80.21%;
+  width: 30.89%;
+}
+
+.image-2-icon--large-monitor {
+  width: 6.89%;
+}
+.image-2-icon--landscape-tablet {
+  width: 6.89%;
+}
+.header {
+  position: absolute;
+  top: 45px;
+  left: 39px;
+  width: 92%;
+  height: 68.5px;
+}
+

@@ -1,0 +1,478 @@
+.home-page-child--laptop,.home-page-child--large-monitor {
+  position: absolute;
+  top: 225px;
+  left: 975px;
+  width: 195px;
+  height: 192px;
+}
+.home-page-child--large-monitor{
+  left: 1375px;
+}
+.mask-group-icon--laptop, .mask-group-icon--large-monitor,
+.mask-group-icon1--laptop, .mask-group-icon1--large-monitor {
+  position: absolute;
+  top: 323px;
+  left: 911px;
+  width: 278px;
+  height: 278px;
+  object-fit: cover;
+}
+.mask-group-icon--large-monitor{
+  left: 1311px;
+}
+.mask-group-icon1--laptop,.mask-group-icon1--large-monitor {
+  top: 155px;
+  left: 691px;
+  width: 429px;
+  height: 429px;
+}
+.mask-group-icon1--large-monitor{
+  left: 1091px;
+}
+.home-page-item--laptop,.home-page-item--large-monitor {
+  position: absolute;
+  top: 522px;
+  left: 919px;
+  width: 92px;
+  height: 92px;
+}
+.home-page-item--large-monitor{
+  left: 1319px;
+}
+.mask-group-icon2--laptop,.mask-group-icon2--large-monitor {
+  position: absolute;
+  top: 345px;
+  left: 933px;
+  width: 274px;
+  height: 274px;
+  object-fit: cover;
+  display: none;
+}
+.mask-group-icon2--large-monitor{
+  left: 1333px;
+}
+
+.industry-investors--laptop,.industry-investors--large-monitor, .industry-investors--phone {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  top: 80px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 596px;
+  height: 399px;
+}
+
+.industry-investors--large-monitor{
+  width: 1000px;
+  top: 60px;
+  font-size: 68px;
+}
+.industry-investors--phone{
+  font-size: 33px;
+  top: 15px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+
+.par1--laptop,.par1--large-monitor,.par1--phone ,
+.par2--laptop,.par2--large-monitor,.par2--phone{
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+}
+
+.par1--laptop,.par1--large-monitor,.par1--phone {
+  top: 300px;
+  font-size: var(--font-size-lg);
+  width: 600px;
+  height: 100px;
+}
+.par1--large-monitor{
+  font-size: 25px;
+}
+.par1--phone{
+  top: 230px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  left: -100px;
+}
+.par2--laptop,.par2--large-monitor,.par2--phone{
+  top: 420px;
+  font-size: var(--font-size-lg);
+  width: 600px;
+  height: 100px;
+}
+.par2--large-monitor{
+  font-size: 25px;
+  width: 900px;
+}
+.par2--phone{
+  top: 300px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  left: 50px;
+  width: 300px;
+}
+
+
+
+.circle-button {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 618px;
+  left: 450px;
+  cursor: pointer;
+}
+.circle-button {
+  top: 642px;
+  left: 720px;
+}
+.button_icon {
+  position: absolute;
+  top: 632px;
+  left: 710px;
+  width: 60px;
+  height: 60px;
+}
+.display--large-monitor,.display--laptop, .display--phone {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 790px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 800px;
+  height: 399px;
+}
+.display--large-monitor{
+  width: 1000px;
+  font-size: 68px;
+}
+.display--phone{
+    font-size: 33px;
+    top: 600px;
+    width: 300px;
+    left: 48px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+.name1a--laptop, .name1a--large-monitor, .name1a--phone,
+.name2a--laptop, .name2a--large-monitor, .name2a--phone,
+.name3a--laptop, .name3a--large-monitor, .name3a--phone,
+.pos1a--laptop, .pos1a--large-monitor, .pos1a--phone,
+.pos2a--laptop, .pos2a--large-monitor, .pos2a--phone,
+.pos3a--laptop, .pos3a--large-monitor, .pos3a--phone{
+  top:880px;
+  left: 60px;
+  width: 600px;
+  height: 100px;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  font-size: 2.6rem;
+}
+
+.pos1a--laptop, .pos1a--large-monitor, .pos1a--phone{
+  top:970px;
+  font-size: x-large;
+}
+.name2a--laptop, .name2a--large-monitor, .name2a--phone{
+  left:480px;
+}
+.name3a--laptop, .name3a--large-monitor, .name3a--phone{ 
+  left:900px;
+}
+.name1a--large-monitor, .name2a--large-monitor, .name3a--large-monitor{
+  font-size: 3rem;
+}
+.pos2a--laptop, .pos2a--large-monitor, .pos2a--phone{
+  top:970px;
+  left:480px;
+  font-size: x-large;
+}
+.pos3a--laptop, .pos3a--large-monitor, .pos3a--phone{
+  top:970px;
+  left:900px;
+  font-size: x-large;
+}
+.pos1a--large-monitor,.pos2a--large-monitor, .pos3a--large-monitor{
+  font-size: 1.75rem;
+}
+.name2a--large-monitor, .pos2a--large-monitor{
+  left: 630px;
+}
+.name3a--large-monitor, .pos3a--large-monitor{
+  left: 1200px;
+}
+.name1a--phone,.name2a--phone,.name3a--phone{
+  position: absolute;
+  align-items: center;
+  display: flex;
+  font-size: 1.4rem;
+  top: 650px;
+  left: 140px;
+}
+.name2a--phone{
+  top: 940px;
+  left: 170px;
+}
+.name3a--phone{
+  top: 1260px;
+  left: 160px;
+}
+
+.pos1a--phone,.pos2a--phone,.pos3a--phone{
+  position: absolute;
+  align-items: center;
+  display: flex;
+  font-size: 1.2rem;
+  top: 700px;
+  left: 165px;
+}
+.pos2a--phone{
+  top: 990px;
+  left: 130px;
+}
+.pos3a--phone{
+  top: 1315px;
+  left: 145px;
+}
+
+.l1a--laptop,.l1a--phone, .l1a--large-monitor,
+.circle-button4-la {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1400px;
+  left: 60px;
+  cursor: pointer;
+}
+.l1a--phone{
+  top: 900px;
+  left: 125px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.l2a--laptop,.l2a--phone, .l2a--large-monitor,
+.circle-button4-l2a {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1400px;
+  left: 480px;
+  cursor: pointer;
+}
+.l2a--large-monitor{
+  left: 630px;
+}
+.l2a--phone{
+  top: 1200px;
+  left: 125px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.l3a--laptop,.l3a--phone, .l3a--large-monitor,
+.circle-button4-l3a {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1400px;
+  left: 900px;
+  cursor: pointer;
+}
+.l3a--large-monitor{
+  left: 1200px;
+}
+
+.l3a--phone{
+  top: 1530px;
+  left: 125px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.l1a--large-monitor,.l2a--large-monitor,.l3a--large-monitor{
+  font-size: 21px;
+  top: 1490px;
+}
+
+.line-div-teama--laptop,
+.line-div-team2a--laptop {
+  position: absolute;
+  top: 930px;
+  left: 420px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height: 538px;
+}
+
+.line-div-team2a--laptop {
+  left: 840px;
+}
+.line-div-teama--large-monitor{
+  position: absolute;
+  top: 930px;
+  left: 540px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height: 538px;
+}
+.line-div-team2a--large-monitor{
+  position: absolute;
+  top: 930px;
+  left: 1110px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height: 538px;
+}
+.text-bena--laptop, .text-bena--large-monitor, .text-bena--phone,
+ .text-ineza--laptop,.text-ineza--large-monitor, .text-ineza--phone,
+ .text-laurena--laptop, .text-laurena--large-monitor, .text-laurena--phone
+ {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+  top:1060px;
+  left:60px;
+  font-size: var(--font-size-lg);
+  width: 310px;
+  height: 10
+}
+
+.text-ineza--laptop, .text-ineza--phone{
+  left:480px;
+}
+.text-laurena--laptop,  .text-laurena--phone{
+  left:900px;
+}
+.text-bena--large-monitor,.text-laurena--large-monitor,.text-ineza--large-monitor{
+  font-size: 25px;
+  width: 420px;
+  top: 1090px;
+}
+.text-ineza--large-monitor{
+  left:630px;
+}
+.text-laurena--large-monitor{
+  left: 1200px;
+}
+.text-bena--phone,.text-ineza--phone{
+  top: 780px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  left: 100px;
+  width: 200px;
+}
+.text-ineza--phone{
+  top: 1080px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  left: 100px;
+  width: 200px;
+}
+.text-laurena--phone{
+  top: 1410px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  left: 100px;
+  width: 200px;
+}
+
+.about-overview--laptop,.about-overview--large-monitor,.about-overview--phone {
+  position: relative;
+  border-radius: 25px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-black);
+  font-family: var(--font-tomorrow);
+}
+.about-overview--large-monitor{
+  height: 1900px;
+}
+.about-overview--phone{
+  height: 2330px;
+}
+.rectangle-buttoni--laptop,.rectangle-buttoni--large-monitor,.rectangle-buttoni--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  height: 75px;
+  top: 621px;
+  left: 68px;
+}
+.rectangle-buttoni--large-monitor{
+  font-size: 21px;
+  width: 495px;
+}
+.rectangle-buttoni--phone{
+  font-size:10px;
+  top: 421px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+}
+.get-in-touch--laptop,.get-in-touch--large-monitor,.get-in-touch--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 618px;
+  left: 450px;
+  cursor: pointer;
+}
+.get-in-touch--large-monitor{
+  font-size: 21px;
+  left:650px;
+}
+.get-in-touch--phone{
+  left: 125px;
+  top: 461px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

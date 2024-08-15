@@ -1,0 +1,470 @@
+.home-page-child--laptop,.home-page-child--large-monitor {
+  position: absolute;
+  top: 225px;
+  left: 975px;
+  width: 195px;
+  height: 192px;
+}
+.home-page-child--large-monitor{
+  left: 1375px;
+}
+.mask-group-icon--laptop, .mask-group-icon--large-monitor,
+.mask-group-icon1--laptop, .mask-group-icon1--large-monitor {
+  position: absolute;
+  top: 323px;
+  left: 911px;
+  width: 278px;
+  height: 278px;
+  object-fit: cover;
+}
+.mask-group-icon--large-monitor{
+  left: 1311px;
+}
+.mask-group-icon1--laptop,.mask-group-icon1--large-monitor {
+  top: 155px;
+  left: 691px;
+  width: 429px;
+  height: 429px;
+}
+.mask-group-icon1--large-monitor{
+  left: 1091px;
+}
+.home-page-item--laptop,.home-page-item--large-monitor {
+  position: absolute;
+  top: 522px;
+  left: 919px;
+  width: 92px;
+  height: 92px;
+}
+.home-page-item--large-monitor{
+  left: 1319px;
+}
+.mask-group-icon2--laptop,.mask-group-icon2--large-monitor {
+  position: absolute;
+  top: 345px;
+  left: 933px;
+  width: 274px;
+  height: 274px;
+  object-fit: cover;
+  display: none;
+}
+.mask-group-icon2--large-monitor{
+  left: 1333px;
+}
+.ii-text--laptop,.ii-text--large-monitor, .ii-text--phone {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+}
+.text-browse--large-monitor, .text-browse--phone,
+.text-browse--laptop,
+.text-browse2--laptop, .text-browse2--large-monitor,.text-browse2--phone      {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+  top: 930px;
+  font-size: var(--font-size-lg);
+  width: 650px;
+  height: 100px;
+}
+.text-browse2--large-monitor{
+  font-size: 25px;
+  width: 900px;
+  top: 1250px;
+}
+.text-browse2--phone{
+  font-size:10px;
+  top: 720px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.text-browse--large-monitor{
+  font-size: 25px;
+  width: 900px;
+  top:900px;
+}
+.text-browse--phone{
+  font-size:10px;
+  top: 1060px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.text-low--large-monitor, .text-low--phone,
+.text-low--laptop,.text-low2--laptop, .text-low2--large-monitor, .text-low2--phone{
+  position: absolute;
+  left: 550px;
+  display: flex;
+  align-items: center;
+  top: 1740px;
+  font-size: var(--font-size-lg);
+  width: 650px;
+  height: 100px;
+}
+.text-low--large-monitor{
+  left:650px;
+  font-size: 25px;
+  width: 900px;
+}
+.text-low--phone{
+  font-size:10px;
+  top: 1450px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.text-low2--laptop, .text-low2--large-monitor, .text-low2--phone{
+  top: 1850px;
+}
+.text-low2--large-monitor{
+  left:650px;
+  font-size: 25px;
+  width: 900px;
+}
+.text-low2--phone{
+  font-size:10px;
+  top: 1510px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.text-browse2--laptop{
+  top: 1300px;
+}
+.line-ii--laptop, .line-ii--large-monitor, .line-ii--phone{
+  position: absolute;
+  top: 1750px;
+  left: 499px;
+  border-right: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 2px;
+  height: 278px;
+}
+.line-ii--large-monitor{
+  left: 570px;
+}
+.industry-investors--laptop,.industry-investors--large-monitor, .industry-investors--phone {
+  position: absolute;
+  left: 68px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  top: 80px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 596px;
+  height: 399px;
+}
+
+.industry-investors--large-monitor{
+  width: 1000px;
+  top: 60px;
+  font-size: 68px;
+}
+.industry-investors--phone{
+  font-size: 33px;
+  top: 15px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.ii-text--laptop,.ii-text--large-monitor ,.ii-text--phone{
+  top: 430px;
+  font-size: var(--font-size-lg);
+  width: 650px;
+  height: 100px;
+}
+.ii-text--large-monitor{
+  font-size: 25px;
+  width: 900px;
+  top:400px;
+}
+.ii-text--phone{
+  font-size:10px;
+  top: 280px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.rectangle-buttoni--laptop,.rectangle-buttoni--large-monitor,.rectangle-buttoni--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  height: 75px;
+  top: 621px;
+  left: 68px;
+}
+.rectangle-buttoni--large-monitor{
+  font-size: 21px;
+  width: 495px;
+}
+.rectangle-buttoni--phone{
+  font-size:10px;
+  top: 421px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+}
+
+.rectangle-button2--laptop,.rectangle-button2--large-monitor,.rectangle-button2--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  height: 75px;
+  top: 933px;
+  left: 849px;
+}
+.rectangle-button3--laptop, .rectangle-button3--large-monitor, .rectangle-button3--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  height: 75px;
+  top: 1320px;
+  left: 849px;
+}
+.rectangle-button2--large-monitor, .rectangle-button3--large-monitor{
+  font-size: 21px;
+  width: 495px;
+  left: 1100px;
+}
+.rectangle-button2--phone{
+  font-size:10px;
+  top: 821px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+  left: 68px;
+}
+.rectangle-button3--phone{
+  font-size:10px;
+  top: 1161px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+  left: 68px;
+}
+.get-in-touch--laptop,.get-in-touch--large-monitor,.get-in-touch--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 618px;
+  left: 450px;
+  cursor: pointer;
+}
+.get-in-touch--large-monitor{
+  font-size: 21px;
+  left:650px;
+}
+.get-in-touch--phone{
+  left: 125px;
+  top: 461px;
+  font-size:10px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.browse-technology--laptop,.browse-technology--large-monitor,.browse-technology--phone {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 766px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 664px;
+  height: 399px;
+}
+.browse-technology--large-monitor{
+  width: 1500px;
+  font-size: 68px;
+}
+.browse-technology--phone{
+  font-size: 33px;
+  top: 600px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.browse-past-projects--laptop,.browse-past-projects--large-monitor,.browse-past-projects--phone  {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 1118px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 664px;
+  height: 399px;
+}
+.browse-past-projects--large-monitor{
+  width: 1000px;
+  font-size: 68px;
+}
+.browse-past-projects--phone{
+  font-size: 33px;
+  top: 970px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.advertise-opp--laptop, .advertise-opp--large-monitor,.advertise-opp--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1762px;
+  left: 79px;
+  cursor: pointer;
+}
+.advertise-opp--large-monitor{
+  font-size: 21px;
+}
+.advertise-opp--phone{
+  font-size:10px;
+  top: 1631px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+  left: 68px;
+}
+
+.nxi-ind--laptop, .nxi-ind--large-monitor,.nxi-ind--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1848px;
+  left: 79px;
+  cursor: pointer;
+}
+.nxi-ind--large-monitor{
+  font-size: 21px;
+}
+.nxi-ind--phone{
+  font-size:10px;
+  top: 1681px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+  left: 130px;
+}
+.finshing-school--laptop, .finshing-school--large-monitor, .finshing-school--phone {
+  position: absolute;
+  font-weight: bolder;
+  font-size: medium;
+  top: 1934px;
+  left: 79px;
+  cursor: pointer;
+}
+.finshing-school--phone{
+  font-size:10px;
+  top: 1721px;
+  height: 35px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 267px;
+  left: 88px;
+}
+
+.finshing-school--large-monitor{
+  font-size: 21px;
+}
+
+.advertise-opportunity--laptop, .advertise-opportunity--large-monitor,.advertise-opportunity--phone {
+  left: 60px;
+  position: absolute;
+  margin: 0;
+  top: 1508px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  width: 800px;
+  height: 399px;
+}
+
+.advertise-opportunity--large-monitor{
+  width: 1500px;
+  font-size: 68px;
+}
+.advertise-opportunity--phone{
+  font-size: 33px;
+  top: 1300px;
+  width: 300px;
+  left: 48px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.upper-line-sep {
+  top: 739.25px;
+}
+
+.lower-line-sep {
+  top: 900px;
+}
+
+.light-bulb--laptop, .light-bulb--large-monitor, .light-bulb--phone {
+  position: absolute;
+  top: 1491px;
+  left: 911px;
+  width: 250px;
+  height: 250px;
+}
+.light-bulb--large-monitor{
+  left: 1361px;
+}
+.industry-and-investors--laptop,.industry-and-investors--large-monitor, .industry-and-investors--phone {
+  position: relative;
+  border-radius: 25px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2312px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: var(--color-black);
+  font-family: var(--font-tomorrow);
+}
+.industry-and-investors--phone{
+  height: 2530px;
+}

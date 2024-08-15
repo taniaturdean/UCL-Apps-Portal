@@ -1,0 +1,65 @@
+.main-box {
+    justify-content: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 8%;
+  }
+
+.title-text {
+    margin: auto;
+    font-size: inherit;
+    font-weight: 600;
+    font-family: inherit;
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 10%;
+    
+  }
+
+.sub-head{
+    margin: auto;
+    font-size: 25%;
+    font-weight: 600;
+    font-family: inherit;
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    font-weight: lighter;
+}
+
+.LineComp {
+  border-top: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 41%;
+  height: 1%;
+  margin-left: 10%;
+}
+
+.char-count{
+  font-size: 15px;
+  padding-left: 0.75%;
+  padding-bottom: 2%;
+  }
+
+.member{
+  font-size: 15px;
+  padding-left: 0.75%;
+  }
+
+.drop{
+  padding-left: 0.4%;
+  }
+
+.submit-past-project-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Make sure the container takes at least the full viewport height */
+  }
+
+.submit-tech{
+    font-size: 64px;
+    color: var(--color-black);
+    font-family: var(--font-tomorrow);
+
+  }

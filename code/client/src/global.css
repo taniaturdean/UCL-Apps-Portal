@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Tomorrow:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-tomorrow: Tomorrow;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 36px;
+  --font-size-2xl: 96px;
+
+  /* Colors */
+  --color-powderblue: #a8d0d0;
+  --color-black: #000;
+  --color-silver: #99bbbb;
+
+  /* Gaps */
+  --gap-xs: 7px;
+  --gap-sm: 10px;
+  --gap-md: 25px;
+  --gap-lg: 30px;
+  --gap-xl: 180px;
+
+  /* Paddings */
+  --padding-sm: 20px;
+  --padding-md: 40px;
+  --padding-lg: 90px;
+
+  /* border radiuses */
+  --br-md: 15px;
+}
